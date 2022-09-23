@@ -77,8 +77,8 @@ img {
     padding:5px 10% 10%;
 } 
 
-/* interest list centered and size limited relative to other content */
-ul {
+/* lists centered and size limited relative to other content */
+ul, ol {
     margin:10px 20%;
     text-align:left;
     width:40%;
